@@ -1,0 +1,15 @@
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.csproj.AssemblyReference.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.AssemblyInfoInputs.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.AssemblyInfo.cs
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.csproj.CoreCompileInputs.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\bin\Debug\net6.0\exp21.exe
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\bin\Debug\net6.0\exp21.deps.json
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\bin\Debug\net6.0\exp21.runtimeconfig.json
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\bin\Debug\net6.0\exp21.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\bin\Debug\net6.0\exp21.pdb
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\refint\exp21.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.pdb
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\exp21.genruntimeconfig.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp21\obj\Debug\net6.0\ref\exp21.dll

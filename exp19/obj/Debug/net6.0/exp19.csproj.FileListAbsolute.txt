@@ -1,0 +1,15 @@
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.csproj.AssemblyReference.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.AssemblyInfoInputs.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.AssemblyInfo.cs
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.csproj.CoreCompileInputs.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\bin\Debug\net6.0\exp19.exe
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\bin\Debug\net6.0\exp19.deps.json
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\bin\Debug\net6.0\exp19.runtimeconfig.json
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\bin\Debug\net6.0\exp19.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\bin\Debug\net6.0\exp19.pdb
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\refint\exp19.dll
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.pdb
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\exp19.genruntimeconfig.cache
+C:\Users\lis_m\Desktop\DOTNET\DOTNET3\exp19\obj\Debug\net6.0\ref\exp19.dll
